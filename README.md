@@ -1,5 +1,5 @@
 ### Back-End Dev
-- Back-End Dev in FinTech(P2P Service)
+> Back-End Dev in FinTech(P2P Service)(2019.10 ~ NOW)
 
 <img width="250" align="right" src="https://user-images.githubusercontent.com/45564139/88758323-25118100-d1a3-11ea-8781-8088b96b137b.png">
 
@@ -13,5 +13,5 @@
 
 #### Self-Develop
 
-> 기술 블로그 운영<br>
-> 스터디 운영
+- 기술 블로그 운영
+- 스터디 운영
