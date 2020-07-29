@@ -19,7 +19,7 @@
 
 <div align=center>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bmh8993)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmh8993)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bmh8993.github.io/)](https://bmh8993.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bmh-dev/)](https://www.linkedin.com/in/bmh-dev/)
