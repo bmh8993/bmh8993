@@ -1,5 +1,8 @@
-### Back-End Dev
-> Back-End Dev in FinTech(P2P Service)(2019.10 ~ NOW)
+### 안녕하세요, 배민혁입니다.
+문제를 해결하기 위해 깨끗하고 합리적인 코드를 작성하는 일을 합니다.<br>
+프로그래밍 언어의 성격, 소프트웨어 아키텍처, 컴퓨터 사이언스, 성장에 관심이 많습니다.<br>
+<br>
+💻 Back-End Dev in FinTech(P2P Service)(2019.10 ~ NOW)
 
 <img width="250" align="right" src="https://user-images.githubusercontent.com/45564139/88758323-25118100-d1a3-11ea-8781-8088b96b137b.png">
 
@@ -13,5 +16,5 @@
 
 #### Self-Develop
 
-- 기술 블로그 운영
-- 스터디 운영
+📚 기술 블로그 운영<br>
+📚 스터디 운영
