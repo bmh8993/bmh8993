@@ -4,7 +4,7 @@
 <br>
 💻 Back-End Dev in FinTech(P2P Service)(2019.10 ~ NOW)
 
-<img width="250" align="right" src="https://user-images.githubusercontent.com/45564139/102895313-d04f0980-44a7-11eb-98d9-e80aaa4427af.png">
+<img width="250" align="right" src="https://user-images.githubusercontent.com/45564139/102896559-f1185e80-44a9-11eb-83bb-bda1e2802230.png">
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bmh8993.github.io/)](https://bmh8993.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bmh-dev/)](https://www.linkedin.com/in/bmh-dev/)
