@@ -3,7 +3,7 @@
 프로그래밍 언어의 성격, 소프트웨어 아키텍처, 컴퓨터 사이언스, 성장에 관심이 많습니다.<br>
 <br>
 
-💻 Fullstack (Digital Signage)(21.01.11 ~ NOW)
+💻 Fullstack (Digital Signage)(21.01.11 ~ NOW)<br>
 💻 Back-End in FinTech(P2P Service)(2019.10 ~ 2021.01.08)
 
 <img width="250" align="right" src="https://user-images.githubusercontent.com/45564139/102896559-f1185e80-44a9-11eb-83bb-bda1e2802230.png">
