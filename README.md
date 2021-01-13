@@ -2,7 +2,9 @@
 문제를 해결하기 위해 깨끗하고 합리적인 코드를 작성하는 일을 합니다.<br>
 프로그래밍 언어의 성격, 소프트웨어 아키텍처, 컴퓨터 사이언스, 성장에 관심이 많습니다.<br>
 <br>
-💻 Back-End Dev in FinTech(P2P Service)(2019.10 ~ NOW)
+
+💻 Fullstack (Digital Signage)(21.01.11 ~ NOW)
+💻 Back-End in FinTech(P2P Service)(2019.10 ~ 2021.01.08)
 
 <img width="250" align="right" src="https://user-images.githubusercontent.com/45564139/102896559-f1185e80-44a9-11eb-83bb-bda1e2802230.png">
 
@@ -13,7 +15,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bmh8993@gmail.com)](mailto:bmh8993@gmail.com)
 
 #### Interest
-*Python, DRF, Computer Science, Infra*
+*Python, Computer Science, Infra, ML*
 
 #### Self-Develop
 
